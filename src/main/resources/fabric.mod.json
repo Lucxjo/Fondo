@@ -26,6 +26,12 @@
         "adapter": "kotlin",
         "value": "xyz.ludoviko.fondo.Fondo"
       }
+    ],
+    "client": [
+      {
+        "adapter": "kotlin",
+        "value": "xyz.ludoviko.fondo.FondoClient"
+      }
     ]
   },
   "mixins": [
