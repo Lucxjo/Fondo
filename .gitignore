@@ -15,3 +15,7 @@ out/
 
 run/
 minecraft/
+
+
+src/main/resources/assets/fondo/lang/*
+!src/main/resources/assets/fondo/lang/en_us.json
