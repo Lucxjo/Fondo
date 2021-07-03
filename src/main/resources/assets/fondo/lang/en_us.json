@@ -1,4 +1,6 @@
 {
     "item.fondo.slate_item": "Slate",
-    "item.fondo.quartz": "Quartz"
+    "item.fondo.quartz": "Quartz",
+    "block.fondo.comp_cobble": "Compressed cobblestone",
+    "item.fondo.comp_cobble.tooltip": "Contains: 8 cobblestone"
 }

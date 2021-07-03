@@ -15,7 +15,15 @@
   "contact": {
     "homepage": "https://ludoviko.xyz/",
     "sources": "https://github.com/Lucxjo/Fondo",
+    "issues": "https://github.com/Lucxjo/Fondo/issues",
     "email": "mc@ludoviko.xyz"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/UZRyJrEPTU"
+      }
+    }
   },
   "license": "MIT",
   "icon": "assets/fondo/icon.png",
@@ -40,7 +48,7 @@
     "fabricloader": ">=0.11.3",
     "fabric": "*",
     "fabric-language-kotlin": ">=1.6.2+kotlin.1.5.20",
-    "minecraft": ">=1.16.3"
+    "minecraft": ">=1.17"
   },
   "suggests": {
     "flamingo": "*"
